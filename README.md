@@ -11,7 +11,7 @@ An end-to-end Power BI dashboard analyzing credit card revenue, interest, income
 ![Home Page](01_home_page.png)
 
 ### 💳 Credit Card Transaction Report
-![Transaction Dashboard](02_transaction_dashboard.png)
+![Transection Dashboard](02_transection_dashboard.png)
 
 ### 👥 Credit Card Customer Report
 ![Customer Dashboard](03_customer_dashboard.png)
